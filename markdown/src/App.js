@@ -1,9 +1,9 @@
-import Book from './Book';
+import Markdown from './Markdown';
 
 function App() {
   return (
     <div className="App">
-      <Book />
+      <Markdown />
     </div>
   );
 }

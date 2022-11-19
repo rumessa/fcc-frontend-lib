@@ -1,0 +1,20 @@
+.container-fluid {
+	background-color: white;
+}
+
+textarea {
+	border: none;
+	min-height: 400px;
+}
+
+img[alt=Dory] { 
+	width: 150px;
+	object-fit: cover;
+}
+
+blockquote {
+	display: inline-block;
+	background-color: whitesmoke;
+	border-left: 5px solid #428bca;
+	padding-left: 5px;
+}
