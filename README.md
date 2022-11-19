@@ -5,6 +5,6 @@ Originally done in CodePen (as they're not huge projects). Later, a React.js app
 
 - Random Quote Generator: https://codepen.io/messter/full/ExLpLrg
 - Markdown Previewer: https://codepen.io/messter/full/zYazWJq
-- Drums: in progress
-- Pomodoro Clock: tbc
-- Calculator: tbc
+- Drums: 
+- Pomodoro Clock: 
+- Calculator: 
