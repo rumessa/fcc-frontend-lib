@@ -1,0 +1,37 @@
+.machine {
+	border: 2px solid #ff4d44;	
+	width: 404px;
+	height: 450px;
+	background-color: #ff4d44;
+}
+
+.main {
+	width: 400px;
+	height: 400px;
+	display: grid;
+	grid-template-rows: 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr;
+	background-color: #ff4d44;
+	box-sizing: border-box;
+}
+
+.drum-pad {
+	width: 100px;
+	height: 100px;
+	border: 1px solid pink;
+	cursor: pointer;
+	font-size: 30px;
+	color: white;
+}
+
+.drum-pad.active {
+	background-color: #ff6d66;
+}
+
+#display {
+	height: 30px;
+	width: 400px;
+	color: white;
+	text-transform: uppercase;
+	font-size: 24px;
+}
