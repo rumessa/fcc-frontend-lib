@@ -5,6 +5,6 @@ Originally done on CodePen. Later, a React.js app was built for all.
 
 - [Random Quote Generator](https://github.com/rumessa/fcc-lib/tree/main/random-quotes)
 - [Markdown Previewer](https://github.com/rumessa/fcc-lib/tree/main/markdown)
-- Drums
+- [Drums](https://github.com/rumessa/fcc-lib/tree/main/drums)
 - Pomodoro Clock
 - Calculator
