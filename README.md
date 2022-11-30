@@ -7,4 +7,4 @@ Originally done on CodePen. Later, a React.js app was built for all.
 - [Markdown Previewer](https://github.com/rumessa/fcc-lib/tree/main/markdown)
 - [Drums](https://github.com/rumessa/fcc-lib/tree/main/drums)
 - Pomodoro Clock
-- Calculator
+- [Calculator](https://github.com/rumessa/fcc-lib/tree/main/calculator)
