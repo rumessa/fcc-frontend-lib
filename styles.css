@@ -13,7 +13,8 @@ a {
 }
 
 .list-group-item {
-    background-color: #83c6a0;;
+    background-color: #83c6a0;
+    margin: 5px 0px;
 }
 
 .list-group-item:hover, .list-group-item.action  {
